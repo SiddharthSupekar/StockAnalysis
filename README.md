@@ -10,6 +10,12 @@ This project analyzes historical stock prices using **Python (Pandas)** for data
 - Study the impact of macroeconomic indicators on stock performance.
 - Deliver insights through an interactive Tableau dashboard.
 
+## Data Sources
+
+- Stock Price Data from [Yahoo Finance via `yfinance`](https://pypi.org/project/yfinance/)
+- Macroeconomic Data from [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/)
+
+
 ## Tools & Technologies
 
 - Python (Pandas, NumPy)
