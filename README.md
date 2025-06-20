@@ -24,7 +24,7 @@ This project analyzes historical stock prices using **Python (Pandas)** for data
 - CSV files for storing stock and macro data
 
 ##  Dashboard
-🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/siddahrth.supekar/viz/StockPriceAnalysisDashboard_17479425794380/Dashboard2)
+🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/StockPriceAnalysisDashboard_17479425794380/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Insights
 
